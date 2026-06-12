@@ -1,0 +1,6 @@
+{
+  "name": "Collaborative Storytelling App",
+  "description": "A real-time co-writing canvas with live editing, cursor tracking, version history, threaded feedback, and role-based access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
